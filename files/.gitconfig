@@ -1,18 +1,15 @@
 [push]
 	default = upstream
 [user]
-	name = Marius Colacioiu
-	email = marius.colacioiu@gmail.com
-	signingkey = 226C57CF
+	name = Xiao Sun
+	email = xiao@ledgy.com
 [color]
 	ui = auto
 [core]
-	excludesfile = /Users/marius.colacioiu/.gitignore
-	editor = vi
-[credential]
-	helper = osxkeychain
+	excludesfile = /home/xiao/.gitignore
+	editor = code
 [github]
-	user = colmarius
+	user = XiaoSunXS
 [diff]
 	submodule = log
 [column]
