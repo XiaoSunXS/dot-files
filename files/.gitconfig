@@ -7,7 +7,7 @@
 	ui = auto
 [core]
 	excludesfile = /home/xiao/.gitignore
-	editor = code
+	editor = code --wait
 [github]
 	user = XiaoSunXS
 [diff]
